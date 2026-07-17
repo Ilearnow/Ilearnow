@@ -1,8 +1,5 @@
 # Hi, I'm Igor 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ilearnow&style=for-the-badge&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/Ilearnow?style=for-the-badge)
-
 Backend Developer focused on building scalable APIs, real-time systems, and data pipelines.
 
 ---
