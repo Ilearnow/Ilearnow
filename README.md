@@ -42,6 +42,3 @@ Backend Developer focused on building scalable APIs, real-time systems, and data
 👉 https://github.com/Ilearnow/tcc-api-oximetro
 
 ---
-
-## 📫 Contact
-- LinkedIn: https://linkedin.com/in/igorcaldas
